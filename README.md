@@ -1,7 +1,7 @@
 # DrunkAlien
-This game were created by Liubov Piliagina to show the basic skills of programming in the C #  language and the ability to work with the Unity engine (created for not commercial purpose).
+This game was created by Liubov Piliagina to show the basic skills of programming in the C #  language and the ability to work with the Unity engine (created for not commercial purpose).
 
-You are an alien who collected cows for scientific research, but after work you decide to drink a little...
+You're an alien who had collected cows for scientific research and after work decided to drink a little...
 Goal is to get to the takeoff point and not lose cows!
 
 Coding and idea (game design) - Liubov Piliagina
