@@ -12,7 +12,7 @@ public class TreePool : MonoBehaviour
     
     private GameObject _tree;
 
-    private int _poolCapacity = 18;
+    private int _poolCapacity = 19;
     public static TreePool Instance
     {
         get

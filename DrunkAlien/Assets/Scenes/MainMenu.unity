@@ -522,14 +522,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 2181338159449819847, guid: d89dad324cc28f24ebef6d04d2887d1b, type: 3}
-      propertyPath: m_Text
-      value: "This game were created by Liubov Piliagina to show the basic skills
-        of programming in the C #  language and the ability to work with the Unity
-        engine.\n\nYou are an alien who collected cows for scientific research, but
-        after work you decide to drink a little\r...\nGoal is to get to the takeoff
-        point and not lose cows!\n"
-      objectReference: {fileID: 0}
     - target: {fileID: 2276137797123762594, guid: d89dad324cc28f24ebef6d04d2887d1b, type: 3}
       propertyPath: m_RootOrder
       value: 6
@@ -577,18 +569,6 @@ PrefabInstance:
     - target: {fileID: 4474258687666861329, guid: d89dad324cc28f24ebef6d04d2887d1b, type: 3}
       propertyPath: m_Name
       value: AboutGameWindow
-      objectReference: {fileID: 0}
-    - target: {fileID: 7485887504348564074, guid: d89dad324cc28f24ebef6d04d2887d1b, type: 3}
-      propertyPath: m_SizeDelta.x
-      value: 600
-      objectReference: {fileID: 0}
-    - target: {fileID: 7485887504348564074, guid: d89dad324cc28f24ebef6d04d2887d1b, type: 3}
-      propertyPath: m_SizeDelta.y
-      value: 240
-      objectReference: {fileID: 0}
-    - target: {fileID: 7485887504348564074, guid: d89dad324cc28f24ebef6d04d2887d1b, type: 3}
-      propertyPath: m_AnchoredPosition.y
-      value: 40
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d89dad324cc28f24ebef6d04d2887d1b, type: 3}
